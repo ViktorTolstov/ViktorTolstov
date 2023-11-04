@@ -32,3 +32,8 @@ I'm Viktor Tolstov, your friendly neighborhood Unity and Solidity developer! ðŸš
 ![Viktor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViktorTolstov&show_icons=true&count_private=true)
 
 Feel free to explore my repositories below and let's create amazing things together! ðŸš€
+
+[![Unity](https://img.shields.io/badge/Unity-2022-black?style=for-the-badge&logo=unity)]
+[![Solidity](https://img.shields.io/badge/Solidity-0.8.10-black?style=for-the-badge&logo=solidity)]
+[![C#](https://img.shields.io/badge/C%23-7.0-black?style=for-the-badge&logo=c-sharp)]
+
