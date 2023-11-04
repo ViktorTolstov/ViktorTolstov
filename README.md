@@ -1,16 +1,34 @@
-### Hi there 👋
+# Hello, World! 👋
 
-<!--
-**ViktorTolstov/ViktorTolstov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Viktor Tolstov, your friendly neighborhood Unity and Solidity developer! 🚀
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎮 Game Developer by day, 🌐 Blockchain Enthusiast by night.
+- 💡 Creating immersive worlds with Unity.
+- 🧙‍♂️ Crafting smart contracts with Solidity.
+
+## My Superpowers
+
+- 🕹️ **Unity Wizard:** Crafting games that take you to new dimensions.
+- 📈 **Solidity Sorcerer:** Building decentralized wonders on the blockchain.
+- 🖥️ **Code Conjurer:** Bringing your ideas to life with clean, efficient code.
+- 🚀 **Problem Solver:** Turning complex challenges into elegant solutions.
+- 🤖 **AI Tamer:** Teaching machines to dance to our tune.
+
+## What I'm Up To
+
+- 🔍 Currently seeking new game development challenges.
+- 🌱 Learning and experimenting with the latest in blockchain technology.
+- 🎮 Playing, breaking, and fixing games for fun.
+
+## Let's Connect 🚀
+
+- 📲 Reach me at: [viktor.tolstov.tsu@gmail.com](https://t.me/ViktorTolstov) (prefer way)
+- 📫 Mail me at: viktor.tolstov.tsu@gmail.com
+
+## My Stats 📊
+
+![Viktor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViktorTolstov&show_icons=true&count_private=true)
+
+Feel free to explore my repositories below and let's create amazing things together! 🚀
