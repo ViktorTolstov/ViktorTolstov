@@ -16,6 +16,15 @@ I'm Viktor Tolstov, your friendly neighborhood Unity and Solidity developer! �
 - 🚀 **Problem Solver:** Turning complex challenges into elegant solutions.
 - 🤖 **AI Tamer:** Teaching machines to dance to our tune.
 
+## Technologies I Love
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-694640?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
 ## What I'm Up To
 
 - 🔍 Currently seeking new game development challenges.
@@ -32,8 +41,3 @@ I'm Viktor Tolstov, your friendly neighborhood Unity and Solidity developer! �
 ![Viktor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViktorTolstov&show_icons=true&count_private=true)
 
 Feel free to explore my repositories below and let's create amazing things together! 🚀
-
-[![Unity](https://img.shields.io/badge/Unity-2022-black?style=for-the-badge&logo=unity)]
-[![Solidity](https://img.shields.io/badge/Solidity-0.8.10-black?style=for-the-badge&logo=solidity)]
-[![C#](https://img.shields.io/badge/C%23-7.0-black?style=for-the-badge&logo=c-sharp)]
-
