@@ -24,7 +24,7 @@ I'm Viktor Tolstov, your friendly neighborhood Unity and Solidity developer! �
 
 ## Let's Connect 🚀
 
-- 📲 Reach me at: [viktor.tolstov.tsu@gmail.com](https://t.me/ViktorTolstov) (prefer way)
+- 📲 Reach me at: [Telegram](https://t.me/ViktorTolstov) (prefer way)
 - 📫 Mail me at: viktor.tolstov.tsu@gmail.com
 
 ## My Stats 📊
